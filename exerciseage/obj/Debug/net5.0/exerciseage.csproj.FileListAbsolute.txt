@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\bin\Debug\net5.0\exerciseage.exe
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\bin\Debug\net5.0\exerciseage.deps.json
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\bin\Debug\net5.0\exerciseage.runtimeconfig.json
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\bin\Debug\net5.0\exerciseage.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\bin\Debug\net5.0\exerciseage.dll
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\bin\Debug\net5.0\ref\exerciseage.dll
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\bin\Debug\net5.0\exerciseage.pdb
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\obj\Debug\net5.0\exerciseage.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\obj\Debug\net5.0\exerciseage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\obj\Debug\net5.0\exerciseage.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\obj\Debug\net5.0\exerciseage.AssemblyInfo.cs
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\obj\Debug\net5.0\exerciseage.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\obj\Debug\net5.0\exerciseage.dll
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\obj\Debug\net5.0\ref\exerciseage.dll
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\obj\Debug\net5.0\exerciseage.pdb
+C:\Users\ACER\Desktop\exercise age\exerciseage\exerciseage\obj\Debug\net5.0\exerciseage.genruntimeconfig.cache
